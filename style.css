@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(182, 145, 145);
+}
+.head{
+    display: flex;
+    font-size: 25px;
+}
+.list ul li{
+    display: inline;
+    margin-left: 40px;
+    padding:  2px;
+    margin-top: 50px;
+
+}
+.list ul li:hover{
+    color:#1e67e4 ;
+}
+#protfolio ul li{
+    color: #1e67e4;
+    font-size: 70px;
+    list-style: none;
+  padding: 1px 150px;
+  
+    
+}
+.head2{
+    display: flex;
+   
+}
+.img img{
+    width:50%;
+    margin-left: 350px;
+  
+}
+p{
+    font-size: 40px;
+    display: inline;
+}
+#color{
+    color:#1e67e4 ;
+    font-size: 20px;
+}
+.head2{
+    margin-left: 100px;
+    
+}
+.button{
+    width: 120px;
+    height: 10px;
+    background-color:#1e67e4 ;
+    text-decoration: none;
+    color: white;
+   padding: 10px 40px;
+}
+.font{
+    margin-top: 60px;
+    margin-left: 50px;
+}
